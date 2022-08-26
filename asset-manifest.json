@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simplest-qrcode-gen/static/css/main.4030a45b.css",
+    "main.js": "/simplest-qrcode-gen/static/js/main.cf2f00d3.js",
+    "static/js/787.0b5d18aa.chunk.js": "/simplest-qrcode-gen/static/js/787.0b5d18aa.chunk.js",
+    "index.html": "/simplest-qrcode-gen/index.html",
+    "main.4030a45b.css.map": "/simplest-qrcode-gen/static/css/main.4030a45b.css.map",
+    "main.cf2f00d3.js.map": "/simplest-qrcode-gen/static/js/main.cf2f00d3.js.map",
+    "787.0b5d18aa.chunk.js.map": "/simplest-qrcode-gen/static/js/787.0b5d18aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4030a45b.css",
+    "static/js/main.cf2f00d3.js"
+  ]
+}
