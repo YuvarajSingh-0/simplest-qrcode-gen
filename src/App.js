@@ -1,5 +1,6 @@
 import "./App.css";
 import React from "react";
+import github from "./github.png";
 function App() {
   function handleClick(e) {
     e.preventDefault();
@@ -12,6 +13,13 @@ function App() {
 
   return (
     <div className="App">
+      <a
+        href="https://github.com/YuvarajSingh-0/simplest-qrcode-gen/tree/master"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img src={github} id="git" alt="github" />
+      </a>
       <h1>Simplest QR Code Generator</h1>
       <form>
         <input type="text" id="text" placeholder="Enter Text" />

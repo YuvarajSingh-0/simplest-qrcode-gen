@@ -48,3 +48,14 @@ input{
   box-shadow: #a6ecff 5px 5px 15px;
   text-align: center;
 }
+
+#git{
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  z-index: 1;
+  visibility: visible;
+  top: 0;
+  right: 0;
+  margin: 10px;
+}
