@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/simplest-qrcode-gen/static/css/main.ff1efe0c.css",
-    "main.js": "/simplest-qrcode-gen/static/js/main.cf2f00d3.js",
+    "main.css": "/simplest-qrcode-gen/static/css/main.ed6fdc2c.css",
+    "main.js": "/simplest-qrcode-gen/static/js/main.d3b05b83.js",
     "static/js/787.0b5d18aa.chunk.js": "/simplest-qrcode-gen/static/js/787.0b5d18aa.chunk.js",
+    "static/media/github.png": "/simplest-qrcode-gen/static/media/github.caeb9ff86e1c3e87612e.png",
     "index.html": "/simplest-qrcode-gen/index.html",
-    "main.ff1efe0c.css.map": "/simplest-qrcode-gen/static/css/main.ff1efe0c.css.map",
-    "main.cf2f00d3.js.map": "/simplest-qrcode-gen/static/js/main.cf2f00d3.js.map",
+    "main.ed6fdc2c.css.map": "/simplest-qrcode-gen/static/css/main.ed6fdc2c.css.map",
+    "main.d3b05b83.js.map": "/simplest-qrcode-gen/static/js/main.d3b05b83.js.map",
     "787.0b5d18aa.chunk.js.map": "/simplest-qrcode-gen/static/js/787.0b5d18aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff1efe0c.css",
-    "static/js/main.cf2f00d3.js"
+    "static/css/main.ed6fdc2c.css",
+    "static/js/main.d3b05b83.js"
   ]
 }
